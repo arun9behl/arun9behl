@@ -7,9 +7,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princekr301&label=Profile%20views&color=0e75b6&style=flat" alt="princekr301" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=princekr301&label=Profile%20views&color=0e75b6&style=flat" alt="arun9behl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princekr301" alt="princekr301" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun9behl" alt="arun9behl" /></a> </p>
 
 
 <h1 align="left">
@@ -18,13 +18,9 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 🌱 I’m currently learning *Data Science in Artificial Intellgience with Deep Learning NLP*
+- 🌱 I’m currently learning *Data Analyst*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 👨‍💻 My Special Blogs at Medium Click Here :- [Medium.com](https://medium.com/@princekumar_95329)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📝 I Regularly Write articles on [Power BI Blog](https://mavenanalytics.io/project/6759)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📫 How to reach me *princekr301@gmail.com*
+- 📫 How to reach me *arun9behl@gmail.com*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ⚡ Fun fact * My Hobbie is Playing Cricket and amy recent hobbie is codding ✨*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
